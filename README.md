@@ -17,8 +17,10 @@ SAS (Statistical Analysis System): The statistical software SAS was utilized for
 
 ## Repository Structure
 [data/](https://github.com/luigiascio/Workforce-Italy/files/11585349/forzalavoro.txt): This directory contains the dataset used for the analysis.
+
 [scripts/](https://github.com/luigiascio/Workforce-Italy/files/11585351/codiceForzaLavoro.pdf): The scripts directory contains the SAS code files used for data processing, analysis, and visualization.
-report/: This directory houses the final report summarizing the findings of the workforce analysis.
+
+[report/](https://github.com/luigiascio/Workforce-Italy/files/11585352/Relazione.forza.lavoro.pdf): This directory houses the final report summarizing the findings of the workforce analysis.
 ## Usage
 Feel free to explore the code, datasets, and results provided in this repository. You can use the SAS scripts as a reference for conducting similar analyses in your own projects. The report offers a comprehensive overview of the workforce analysis and can serve as a valuable resource for understanding the insights derived from the data.
 

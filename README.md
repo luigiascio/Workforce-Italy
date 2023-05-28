@@ -16,7 +16,7 @@ SAS (Statistical Analysis System): The statistical software SAS was utilized for
 5. Cluster Analysis: Cluster analysis was performed to group similar observations within the workforce dataset. This analysis aimed to identify distinct segments or clusters based on shared characteristics, providing a deeper understanding of different workforce profiles.
 
 ## Repository Structure
-data/: This directory contains the dataset used for the analysis.
+data/https://github.com/luigiascio/Workforce-Italy/files/11585349/forzalavoro.txt: This directory contains the dataset used for the analysis.
 scripts/: The scripts directory contains the SAS code files used for data processing, analysis, and visualization.
 results/: The results directory includes the generated outputs, such as charts, tables, and summary statistics.
 report/: This directory houses the final report summarizing the findings of the workforce analysis.
